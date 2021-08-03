@@ -317,7 +317,7 @@ a:hover {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #000000;
+  background: #ffffff;
   color: #B0E0E6;
   width: 44px;
   height: 44px;
@@ -333,7 +333,7 @@ a:hover {
 
 .back-to-top i {
   padding-top: 12px;
-  color: #000000;
+  color: #ec7a7a;
 }
 
 /* Prelaoder */
